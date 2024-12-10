@@ -2,18 +2,18 @@
 
 ## Code quality and readability
 
-- Use Typescript for type safety and readability
-- Use prettier for better and more concise formatting accross the project
-- Update the packages versions for bugs/security fixes
+- Use Typescript for enhanced type safety and improved readability
+- Use prettier for consistent and concise formatting accross the project
+- Update the packages versions to address bugs and security vulnerabilities
 - Add testing
 
 ## Project architecture
 
 - Add a run script in package.json
 - Separate functionalities, logic and connections into separate modules
-- Refactor the code following some code principles like SOLID or CLEAN
+- Refactor the code according to established principles such as SOLID or CLEAN
 
 ## Code Performance
 
-- Separate each proccess into different workers for parallell processing
-- Check if newer versions of the @hubspot/api-client package can improve some calls to reduce the number of request to the Hubspot's API
+- Split proccesses into separate workers for parallell processing
+- Evaluate newer versions of the @hubspot/api-client package to optimize API calls and reduce the number of request to the Hubspot's API
